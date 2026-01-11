@@ -11,10 +11,9 @@ Proceptia operates as a focused, owner-led practice and engages selectively to e
 
 ---
 
-
 **Principal: Tony Acquadro**
 
-
+  
 Tony creates first-principles analytical models that bridge pilot plant operations and commercial deployment. His background combines pyrometallurgical expertise from Ausmelt with systematic approaches to modelling complex chemical systems.
 
 
@@ -29,13 +28,11 @@ Tony creates first-principles analytical models that bridge pilot plant operatio
 
 **Publications**
 
-
 - *Numerical and experimental investigation of top submerged gas injection system*
 Morsi, Yang, Achim, Acquadro — Alicante, Spain, 2001
 
 
 **Patents**
-
 
 - *WO 2005/098059 A1 – Process for Copper Converting*
 Hughes, Matusewicz, McClelland, Acquadro, Baldock — Filed April 2005
