@@ -1,3 +1,7 @@
+---
+title: Services
+---
+
 # Services
 
 Proceptia delivers engineering services aligned to manufacturing and process-based facilities, supporting both operational and project-based decisions.
