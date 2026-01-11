@@ -1,0 +1,2 @@
+# Proceptia
+static website
