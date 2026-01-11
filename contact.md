@@ -1,3 +1,7 @@
+---
+title: Contact
+---
+
 # Contact
 
 For enquiries or initial discussions:
