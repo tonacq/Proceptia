@@ -4,7 +4,7 @@ theme: minima
 
 header_pages:
   - about.md
-  - services.md
   - approach.md
+  - services.md
   - contact.md
   - privacy.md
