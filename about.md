@@ -9,6 +9,7 @@ The practice draws on senior engineering experience across industrial operations
 
 Proceptia operates as a focused, owner-led practice and engages selectively to ensure depth, accountability, and continuity across all work undertaken.
 
+<hr style="margin: 1.5rem 0;">
 
 **Principal: Tony Acquadro**
 
