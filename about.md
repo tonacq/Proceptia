@@ -2,7 +2,6 @@
 title: About
 ---
 
-# About
 
 Proceptia is an independent engineering consulting practice focused on manufacturing and process-driven industries.
 
