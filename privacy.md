@@ -1,3 +1,7 @@
+---
+title: Privacy
+---
+
 # Privacy Policy
 
 Proceptia respects your privacy.
