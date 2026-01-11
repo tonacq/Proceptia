@@ -2,7 +2,6 @@
 title: Approach
 ---
 
-# Approach
 
 Proceptia operates with an emphasis on transparency, technical rigour, and practical judgement.
 
