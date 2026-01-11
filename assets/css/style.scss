@@ -1,0 +1,32 @@
+---
+---
+
+@import "minima";
+
+/* Force dark theme by default */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #0f1115;
+  color: #e6e6e6;
+}
+
+a {
+  color: #7aa2f7;
+}
+
+a:visited {
+  color: #9aa5ce;
+}
+
+header.site-header,
+footer.site-footer {
+  background-color: #0f1115;
+  border-color: #2a2f3a;
+}
+
+hr {
+  border-color: #2a2f3a;
+}
