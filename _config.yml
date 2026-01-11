@@ -1,0 +1,10 @@
+title: Proceptia
+description: Independent engineering judgement, modelling, and project advisory for manufacturing and process-based operations.
+theme: minima
+
+header_pages:
+  - about.md
+  - services.md
+  - approach.md
+  - contact.md
+  - privacy.md
