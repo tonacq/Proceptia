@@ -9,9 +9,8 @@ The practice draws on senior engineering experience across industrial operations
 
 Proceptia operates as a focused, owner-led practice and engages selectively to ensure depth, accountability, and continuity across all work undertaken.
 
----
 
-**Principal: Tony Acquadro**
+## Principal: Tony Acquadro
 
   
 Tony creates first-principles analytical models that bridge pilot plant operations and commercial deployment. His background combines pyrometallurgical expertise from Ausmelt with systematic approaches to modelling complex chemical systems.
