@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+/* Force dark template */
+:root { color-scheme: dark; }
+
+body {
+  background: #000;
+  color: #e6e6e6;
+}
+
+a { color: #8ab4f8; }
+a:visited { color: #c58af9; }
+
+.site-header,
+.site-footer {
+  background: #000;
+  border-color: #222;
+}
+
+hr { border-color: #222; }
