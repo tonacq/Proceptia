@@ -21,3 +21,25 @@ a:visited { color: #c58af9; }
 }
 
 hr { border-color: #222; }
+
+/* Header navigation links (Minima) */
+.site-nav .page-link,
+.site-nav .page-link:visited {
+  color: #e6e6e6;
+}
+
+.site-nav .page-link:hover,
+.site-nav .page-link:focus {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+/* Mobile hamburger icon + menu */
+.site-nav .menu-icon svg path {
+  fill: #e6e6e6;
+}
+
+.site-nav .trigger {
+  background: #000;
+  border-color: #222;
+}
