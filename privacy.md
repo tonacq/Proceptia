@@ -9,4 +9,4 @@ Personal information collected through this website is limited to information vo
 
 Proceptia does not sell, rent, or share personal information with third parties. Information is stored using standard business systems and reasonable security practices.
 
-For privacy-related enquiries, please contact info@proceptia.com.au.
+For privacy-related enquiries, please contact [enquiries@proceptia.com.au](mailto:enquiries@proceptia.com.au).
