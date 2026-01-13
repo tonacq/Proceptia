@@ -43,3 +43,16 @@ hr { border-color: #222; }
   background: #000;
   border-color: #222;
 }
+
+/* Link hover/focus visibility on dark background */
+a:hover,
+a:focus {
+  color: #9ecbff;     /* lighter hover colour */
+  text-decoration: underline;
+}
+
+/* Ensure email links behave the same */
+a[href^="mailto:"]:hover,
+a[href^="mailto:"]:focus {
+  color: #9ecbff;
+}
